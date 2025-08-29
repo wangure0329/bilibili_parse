@@ -6,3 +6,4 @@ Bilibili解析ツール、シンプルなC++ツールです
 このオブジェクトはリンク解析を使用しており、元のBilibiliリンクを入力するだけで
 すでにプレフィックスが追加されたURLを取得でき
 変更することなくVizVidに適用できます
+<img width="472" height="317" alt="12" src="https://github.com/user-attachments/assets/19a54c2d-d9fd-4f9a-af60-a86ebf6a6526" />
