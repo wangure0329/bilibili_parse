@@ -9,7 +9,7 @@ public class bilibili_parse : UdonSharpBehaviour {
     public InputField Output;
 
     public void ConvertUrl() {
-        if (Input.text != string.Empty) Output.text = "https://jx.91vrchat.com/bl/?url=" + Input.text;
+        if (Input.text != string.Empty) Output.text = "https://vrcbilibili.xn--o8z.tw/?url=" + Input.text;
         Debug.Log(Input.text);
     }
     
